@@ -109,6 +109,5 @@ This project is licensed under the MIT License. You are free to use, modify, dis
 
 Herculas Agent Desktop is a tool for productivity enhancement. It is not an autonomous decision-maker and should not be used in life-critical systems, financial trading without human oversight, or any context where incorrect execution could cause harm. The developers provide no warranty—expressed or implied—and assume no liability for actions taken by the agent under user instruction. Users are responsible for all actions performed by Herculas on their systems.
 
-📥 Download Again
 
 Herculas Agent Desktop – Your desktop, augmented. First release: 2026.
